@@ -4,7 +4,9 @@
             "code": 200,
             "msg": "",
             "message":"sucess",
-            "whe": false
+            "whe": false,
+            "score": 500,
+            "multiple": 10
         }
     }
 }
